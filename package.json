@@ -1,0 +1,18 @@
+{
+  "name": "lowres-rgeo",
+  "version": "1.0.0",
+  "description": "low resolution reverse geocoder",
+  "author": {
+    "name": "The Dark Sky Company, LLC",
+    "email": "support@darkskyapp.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/darkskyapp/lowres-rgeo.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "1.10.x",
+    "chai": "1.6.x"
+  }
+}
